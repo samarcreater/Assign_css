@@ -11,5 +11,8 @@
     "not firefox <= 133",
     "not safari <= 18.2",
     "not samsung <= 27"
-  ]
+  ],
+  "hints": {
+    "no-inline-styles": "off"
+  }
 }
